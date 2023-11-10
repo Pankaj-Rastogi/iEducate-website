@@ -1,2 +1,3 @@
 # iEducate-website
 Institution or education centers can develop their curriculum through this website.......Create a website like this for your education center so that the specialties of your institute can reach people online...
+This is a responsive website which uses Javascript and also has accurate navigation...This is a basic project and very helpful.
